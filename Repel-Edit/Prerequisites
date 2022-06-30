@@ -1,0 +1,12 @@
+1.Backend
+//Create server folder.
+> npm init -y
+> npm i express nodemon socket.io
+
+
+2.Frontend
+> npx create-react-app collaborative-editor
+> npm i socket.io-client react-simple-code-editor prismjs
+
+Download prism css
+https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript+jsx
